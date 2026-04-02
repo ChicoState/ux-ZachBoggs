@@ -11,4 +11,4 @@ Hey I'm Skylar, I'm a student here at Chico state about to graduate with my Bach
 ![pool league photo](./assets/pool-league.png)
 
 ## Journal Entries
-[Journal 1 - not so easy toaster](./journal-01.md)
+[Journal 1 - not so easy toaster](journal-01.md)
